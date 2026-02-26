@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Xin chào, mình là Đỗ Trí An
 
-<!--
-**DOTRIAN/DOTRIAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sinh viên năm 2 ngành Công nghệ thông tin  
+💻 Quan tâm đến Backend và Hệ thống  
+🚀 Đang tìm kiếm cơ hội thực tập  
 
-Here are some ideas to get you started:
+ 🛠 Kỹ năng kỹ thuật
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Ngôn ngữ lập trình:
+- C / C++
+- JavaScript (cơ bản)
+
+**Cơ sở dữ liệu:**
+- MySQL
+
+**Kiến thức nền tảng:**
+- Cấu trúc dữ liệu & Giải thuật
+- Lập trình hướng đối tượng
+
+**Công cụ, công nghệ:
+- Git
+- VS Code
+- Code::Blocks
+- Docker
+
+### 📚 Định hướng:
+Phát triển nền tảng vững chắc về lập trình và tham gia các dự án thực tế trong môi trường chuyên nghiệp, năng động, sáng tạo.
