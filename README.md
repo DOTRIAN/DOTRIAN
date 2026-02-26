@@ -10,7 +10,7 @@
  - C / C++
  - JavaScript (cơ bản)
 
-*Cơ sở dữ liệu:**
+*Cơ sở dữ liệu:
 - MySQL
 
 *Kiến thức nền tảng:
