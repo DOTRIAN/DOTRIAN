@@ -6,18 +6,18 @@
 
  🛠 Kỹ năng kỹ thuật
 
-**Ngôn ngữ lập trình:
-- C / C++
-- JavaScript (cơ bản)
+ *Ngôn ngữ lập trình:
+ - C / C++
+ - JavaScript (cơ bản)
 
-**Cơ sở dữ liệu:**
+*Cơ sở dữ liệu:**
 - MySQL
 
-**Kiến thức nền tảng:**
+*Kiến thức nền tảng:
 - Cấu trúc dữ liệu & Giải thuật
 - Lập trình hướng đối tượng
 
-**Công cụ, công nghệ:
+*Công cụ, công nghệ:
 - Git
 - VS Code
 - Code::Blocks
