@@ -1,7 +1,7 @@
 ## 👋 Xin chào, mình là Đỗ Trí An
 
 🎓 Sinh viên năm 2 ngành Công nghệ thông tin  
-💻 Quan tâm đến Backend và Hệ thống  
+💻 Quan tâm đến Backend, Web, Cloud và Hệ thống.  
 🚀 Đang tìm kiếm cơ hội thực tập  
 
  🛠 Kỹ năng kỹ thuật
